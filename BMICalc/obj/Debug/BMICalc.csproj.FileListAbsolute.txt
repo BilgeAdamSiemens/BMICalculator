@@ -1,0 +1,6 @@
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\bin\Debug\BMICalc.exe
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\bin\Debug\BMICalc.pdb
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\obj\Debug\BMICalc.csprojAssemblyReference.cache
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\obj\Debug\BMICalc.csproj.CoreCompileInputs.cache
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\obj\Debug\BMICalc.exe
+C:\Users\serda\RiderProjects\BMICalc\BMICalc\obj\Debug\BMICalc.pdb
